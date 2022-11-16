@@ -2,7 +2,7 @@
 
 ### DESCRIPTION
 
-This report shows products and its sales with conditions that  affect these sales.
+This project is a sales report analyzed with power bi to show sales performance using relatable columns like region, customers, ship date and others.
 
 -------------------
 
