@@ -8,6 +8,7 @@ This project is a sales report analyzed with power bi to show sales performance 
 
 ### DATA SOURCE 
 
+https://github.com/JoyNdubuisi/PRODUCT-SALES-REPORT/blob/main/PRODUCT%20SALES%20REPORT.pbix
 
 -------------------
 
