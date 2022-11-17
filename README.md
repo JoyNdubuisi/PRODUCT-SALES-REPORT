@@ -25,4 +25,5 @@ This project was done to identify the most profitable sales path using specified
 
 ### RECOMMENDATION
 
+I recommend that product awareness and campaigns should be organized for regions with minimal sales in order to increase sales and so cause an increase in revenue.
 
