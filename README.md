@@ -19,7 +19,7 @@ This project was done to identify the most profitable sales path using specified
 
 ### FINDINGS
 
-![Product Sales Report](https://user-images.githubusercontent.com/110602626/202304010-3eac5175-8d55-43de-81e4-1cef5e43cc6c.png)
+![Product Sales Report main](https://user-images.githubusercontent.com/110602626/202432633-c86f6952-5452-4811-baeb-e7048da39217.png)
 
 -------------------
 
